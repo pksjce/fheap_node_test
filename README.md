@@ -8,10 +8,10 @@ As suggested I have been able to write unit tests using nodeunit.
 
 ####To run this
 
-npm install
+npm install  
 nodeunit test
 
 ####Start server
 
-node app.js
+node app.js  
   This shows sorted random numbers as both text and numbers.(Its just a JSON string for now)
